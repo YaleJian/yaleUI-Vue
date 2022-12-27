@@ -1,6 +1,6 @@
 import {createRouter, createWebHistory} from 'vue-router'
 import Test from '../views/Test.vue'
-import Home from "../views/home.vue";
+import Home from "../views/Home.vue";
 // 2. 定义一些路由
 const routes = [
     {path: '/', component: Home},
